@@ -1,12 +1,18 @@
 ---
-title: Gao Meng Group at HKBU
+title: Centre for Climate and Environmental Sustainability
 layout: homelay
 excerpt: Home
 sitemap: false
 permalink: "/"
 ---
 
-We are the Chemistry-Climate Modeling Group at Hong Kong Baptist University. Our research centers on interactive processes of compound chemical and climate extremes, aiming to offer actionable insights into air pollution and climate change mitigation. 
+We are the Centre for Climate and Environmental Sustainability at Hong Kong Baptist University. Our research focuses on:
+
+    Climate change adaptation, mitigation and resilience
+    Extreme weather and climate change
+    Atmospheric chemistry and air quality
+    Environment and health
+    Sustainable urban development
 
 <div style="display: flex; gap: 2em; margin-top: 2em;">
 <div style="flex: 3;">
