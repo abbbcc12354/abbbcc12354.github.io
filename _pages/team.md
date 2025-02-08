@@ -71,7 +71,7 @@ permalink: "/team/"
 </div>
 
 
-## Group Leader
+## Leader
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_0 %}
@@ -126,7 +126,7 @@ permalink: "/team/"
 [Full CV (as of April 2024)](CV.pdf) 
 	{% endcomment %}
 
-## Current Group Members
+## Members
 
 {% assign number_printed = 0 %}
 {% for member in site.data.team_1 %}
@@ -162,42 +162,6 @@ permalink: "/team/"
 </div>
 	
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-## Alumni
-{% assign number_printed = 0 %}
-{% for member in site.data.team_3 %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}</i>
-  {% if member.linkable == 1 %}
-  <i>Now: <a href="{{ member.link }}">{{ member.now }}</a></i>
-  {% endif %}
-  {% if member.linkable == 0 %}
-  <i>Now: {{ member.now }}</i>
-  {% endif %}
-  <ul style="overflow: hidden">
-		
-	</ul>
-</div>
-	
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
