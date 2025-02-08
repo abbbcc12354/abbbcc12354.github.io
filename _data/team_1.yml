@@ -1,85 +1,11 @@
-- name: Qianqian Yang (杨倩倩)
-  photo: qianqianyang.jpg
-  info: Postdoctoral Fellow (2023.8 - )
-  email: qianqian_yang@whu.edu.cn
-  number_educ: 2
-  education1: 'PhD, Wuhan University, 2023'
-  education2: 'BSc, Wuhan University, 2017'
-  
-- name: Liuhua Zhu (朱柳桦)
-  photo: zhuliuhua.jpg
-  info: Postdoctoral Fellow (2023.10 - )
-  email: liuhuazhu9608@gmail.com
-  number_educ: 2
-  education1: 'PhD, Nanjing University of Information Science and Technology, 2023'
-  education2: 'BSc, Nanjing University of Information Science and Technology, 2018'
-
-- name: Wei Zhu (朱伟)
-  photo: zhuwei.jpg
-  info: Postdoctoral Fellow (2024.7 - )
-  email: 2020029006@chd.edu.cn
-  number_educ: 2
-  education1: 'PhD, Changan University, 2024'
-  education2: 'BSc, Inner Mongolia University of Science and Technology, 2017'
-  
-- name: Huibin Dai (代慧斌)
-  photo: daihuibin.jpg
-  info: Postdoctoral Fellow (2024.7 - )
-  email: huibindai@hkbu.edu.hk
-  number_educ: 2
-  education1: 'PhD, Nanjing University of Information Science and Technology, 2023'
-  education2: 'BSc, Nanjing University of Information Science and Technology, 2018'
-  
-- name: Xiaorui Zhang (张笑瑞)
-  photo: xiaorui.jpg
-  info: Research Assistant (2024.10 - )
-  email: 20482221@life.hkbu.edu.hk
+- name: Meng Gao (高蒙)
+  photo: gaomeng.png
+  info: 'Professor'
+  email: mmgao2@hkbu.edu.hk
   number_educ: 3
-  education1: 'PhD, Hong Kong Baptist University, 2024'
-  education2: 'MSc, Lanzhou University, 2020'
-  education3: 'BSc, Nanjing University of Information Science and Technology, 2017'
+  education1: 'Postdoc, Harvard University, 2016-2019'
+  education2: 'PhD, University of Iowa, 2015'
+  education3: 'BSc, Nanjing University of Information Science and Technology, 2012'
+  office: AAB 1226
+  tel: (+852) 3411-7190
   
-- name: Fan Wang (王凡)
-  photo: wangfan.jpg
-  info: PhD student (2021.9 - )
-  email: fanwang@life.hkbu.edu.hk
-  number_educ: 2
-  education1: 'MSc, Nanjing University of Information Science and Technology, 2021'
-  education2: 'Bsc, Nanjing University of Information Science and Technology, 2018'
-  
-- name: Xinyan Li (李欣艳)
-  photo: lixinyan.jpg
-  info: PhD student (2022.9 - )
-  email: 22482369@life.hkbu.edu.hk
-  number_educ: 1
-  education1: 'BSc, Nanjing University of Information Science and Technology, 2022'
-
-- name: Yuyang Han (韩雨阳)
-  photo: hanyuyang.jpg
-  info: PhD student (2024.9 - )
-  email: 23484098@life.hkbu.edu.hk
-  number_educ: 2
-  education1: 'MSc, University of Chinese Academy of Sciences, 2023'
-  education2: 'Bsc, Nanjing University of Information Science and Technology, 2020'
-
-- name: Guanghong Zhai (翟光宏)
-  photo: zhaiguanghong.jpg
-  info: PhD student (2024.9 - )
-  email: 24481785@life.hkbu.edu.hk
-  number_educ: 1
-  education1: 'BMed, Sun Yat-sen University, 2024'
-
-- name: Bofan Liu (刘博凡)
-  photo: liubofan.jpg
-  info: PhD student (2024.9 - )
-  email: 24482765@life.hkbu.edu.hk
-  number_educ: 2
-  education1: 'Msc, Imperial College London, 2024'
-  education2: 'Bsc, Nanjing University of Information Science and Technology, 2023'
-
-- name: Zhengwu Ouyang (欧阳正午)
-  photo: zhengwu.jpg
-  info: Mphil student (2022.9 - )
-  email: 22482881@life.hkbu.edu.hk
-  number_educ: 1
-  education1: 'Bsc, Chengdu University of Information Technology, 2022'
