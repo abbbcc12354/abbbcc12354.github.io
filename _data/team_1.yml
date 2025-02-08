@@ -1,11 +1,21 @@
-- name: Meng Gao (高蒙)
+- name: Lo Tek Sheng, Kevin (盧笛聲)
   photo: gaomeng.png
-  info: 'Professor'
-  email: mmgao2@hkbu.edu.hk
+  info: 'Doctor'
+  email: lokevin@hkbu.edu.hk
   number_educ: 3
-  education1: 'Postdoc, Harvard University, 2016-2019'
-  education2: 'PhD, University of Iowa, 2015'
-  education3: 'BSc, Nanjing University of Information Science and Technology, 2012'
-  office: AAB 1226
-  tel: (+852) 3411-7190
-  
+  education1: 'Ph.D., University of Melbourne, Australia'
+  education2: 'M.Env., University of Melbourne, Australia'
+  education3: 'M.Sc., Brunel University London, UK'
+  office: AAB 902M/AAB 1224
+  tel: (+852) 3411 2873
+
+- name: Lo Tek Sheng, Kevin (盧笛聲)
+  photo: gaomeng.png
+  info: 'Doctor'
+  email: lokevin@hkbu.edu.hk
+  number_educ: 3
+  education1: 'Ph.D., University of Melbourne, Australia'
+  education2: 'M.Env., University of Melbourne, Australia'
+  education3: 'M.Sc., Brunel University London, UK'
+  office: AAB 902M/AAB 1224
+  tel: (+852) 3411 2873
