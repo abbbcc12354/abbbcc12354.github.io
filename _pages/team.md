@@ -138,29 +138,29 @@ permalink: "/team/"
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="28%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>Email: {{ member.email }}</i>
+  <i>{{ member.info }} <br>Office: {{ member.office }}<br>Tel: {{ member.tel }} <br>
+  Email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-	  
+		
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+	
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-
+	
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
-  {% endif %}
-		
+  {% endif %}	
+  
 	</ul>
 </div>
-	
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -174,4 +174,3 @@ permalink: "/team/"
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-	
