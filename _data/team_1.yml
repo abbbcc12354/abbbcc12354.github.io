@@ -27,7 +27,7 @@
   email: meiyuguo@hkbu.edu.hk
   number_educ: 4
   education1: 'Ph.D., The Chinese University of Hong Kong, Hong Kong, China'
-  education2: 'Visiting Research Fellow, School of Engineering and Applied Science, Harvard University'
+  education2: 'Visiting Research Fellow, School of Engineering and Applied Science, Harvard University, USA'
   education3: 'M.Ec., Renmin University of China, China'
   education4: 'B.Sc., Renmin University of China, China'
   office: AAB 1223
@@ -57,7 +57,7 @@
   office: AAB 1222
   tel: (+852) 3411 2579
 
-- name: Song Jun (宋俊)
+- name: Song, Jun (宋俊)
   photo: c6.jpg
   info: 'Research Assistant Professor'
   email: junsong@hkbu.edu.hk
@@ -65,5 +65,40 @@
   education1: 'Ph.D., Imperial College London, UK'
   education2: 'M.Sc., Southwest Jiaotong University, China'
   education3: 'B.Sc., Southwest Jiaotong University, China'
-  office: AAB 1222
-  tel: (+852) 3411 2579
+  office: AAB 1228
+  tel: (+852) 3411 7189
+
+- name: Xiong, Liming (熊禮明)
+  photo: c7.jpg
+  info: 'Professor'
+  email: lxiong@hkbu.edu.hk
+  number_educ: 4
+  education1: 'Ph.D., University of Arizona, USA'
+  education2: 'Ph.D., Chinese Academy of Sciences, China'
+  education3: 'M.S., Nanjing Agricultural University, China'
+  education4: 'B.S., Huazhong Agricultural University, China'
+  office: RRS 821
+  tel: (+852) 3411 6678
+
+- name: Liu, Yang (劉泱)
+  photo: c8.png
+  info: 'Assistant Professor'
+  email: csygliu@comp.hkbu.edu.hk
+  number_educ: 4
+  education1: 'Postdoctoral Research Associate, Yale University, USA'
+  education2: 'Ph.D., Hong Kong Polytechnic University, Hong Kong'
+  education3: 'M.Eng., National University of Defense Technology, China'
+  education4: 'B.Eng., National University of Defense Technology, China'
+  office: RRS 729
+  tel: (+852) 3411 2798
+
+- name: Yang, Zhu (楊鑄)
+  photo: c9.jpg
+  info: 'Assistant Professor'
+  email: zyang@hkbu.edu.hk
+  number_educ: 3
+  education1: 'Ph.D., Hong Kong Baptist University, Hong Kong'
+  education2: 'M.Sc., Peking University, China'
+  education3: 'B.Sc., Peking University, China'
+  office: RRS 835
+  tel: (+852) 3411 5162
