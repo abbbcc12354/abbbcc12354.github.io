@@ -2,10 +2,11 @@
   photo: c1.png
   info: 'Associate Professor'
   email: lokevin@hkbu.edu.hk
-  number_educ: 3
+  number_educ: 4
   education1: 'Ph.D., University of Melbourne, Australia'
   education2: 'M.Env., University of Melbourne, Australia'
   education3: 'M.Sc., Brunel University London, UK'
+  education4: 'The University of Hong Kong, Hong Kong'
   office: AAB 902M/AAB 1224
   tel: (+852) 3411 2873
 
@@ -24,10 +25,11 @@
   photo: c3.jpg
   info: 'Associate Professor'
   email: meiyuguo@hkbu.edu.hk
-  number_educ: 3
+  number_educ: 4
   education1: 'Ph.D., The Chinese University of Hong Kong, Hong Kong, China'
   education2: 'Visiting Research Fellow, School of Engineering and Applied Science, Harvard University'
   education3: 'M.Ec., Renmin University of China, China'
+  education4: 'B.Sc., Renmin University of China, China'
   office: AAB 1223
   tel: (+852) 3411 6542
 
@@ -42,3 +44,15 @@
   office: AAB 1233
   tel: (+852) 3411 7208
 
+- name: Zhuang, Yizhou (庄一洲)
+  photo: c5.jpg
+  info: 'Associate Professor'
+  email: meiyuguo@hkbu.edu.hk
+  number_educ: 5
+  education1: 'Postdoctoral Scholar, University of California, Los Angeles (UCLA), USA'
+  education2: 'Visiting Graduate Researcher, University of California, Los Angeles (UCLA), USA'
+  education3: 'Visiting Research Scholar, University of Texas at Austin, USA'
+  education4: 'Ph.D., Meteorology, Peking University, China'
+  education5: 'B.S., Atmospheric Sciences (Remote Sensing Focus), Nanjing University of Information Science and Technology, China'
+  office: AAB 1222
+  tel: (+852) 3411 2579
