@@ -2,9 +2,10 @@
   photo: gaomeng.png
   info: 'Professor'
   email: mmgao2@hkbu.edu.hk
-  number_educ: 3
-  education1: 'Postdoc, Harvard University, 2016-2019'
-  education2: 'PhD, University of Iowa, 2015'
-  education3: 'BSc, Nanjing University of Information Science and Technology, 2012'
+  number_educ: 4
+  education1: 'Postdoctoral Fellow, Environmental Science and Engineering, Harvard University, USA'
+  education2: 'Ph.D., Chemical Engineering, University of Iowa, USA'
+  education3: 'M.Sc., Chemical Engineering, University of Iowa, USA'
+  education4: 'B.Sc., Atmospheric Physics, Nanjing University of Information Science and Technology, China'
   office: AAB 1226
   tel: (+852) 3411-7190
