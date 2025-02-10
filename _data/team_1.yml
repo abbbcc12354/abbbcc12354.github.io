@@ -1,6 +1,6 @@
 - name: Lo Tek Sheng, Kevin (盧笛聲)
   photo: c1.png
-  info: 'Doctor'
+  info: 'Associate Professor'
   email: lokevin@hkbu.edu.hk
   number_educ: 3
   education1: 'Ph.D., University of Melbourne, Australia'
@@ -11,7 +11,7 @@
 
 - name: Mah Ngar-yin, Daphne (馬雅燕)
   photo: c2.jpg
-  info: 'Doctor'
+  info: 'Associate Professor'
   email: daphnemah@hkbu.edu.hk
   number_educ: 3
   education1: 'Ph.D., The University of Hong Kong, Hong Kong'
@@ -19,3 +19,26 @@
   education3: 'BSSc, Chinese University of Hong Kong, Hong Kong'
   office: AAB 1231
   tel: (+852) 3411 5941
+
+- name: Guo Meiyu (郭美瑜)
+  photo: c3.jpg
+  info: 'Associate Professor'
+  email: meiyuguo@hkbu.edu.hk
+  number_educ: 3
+  education1: 'Ph.D., The Chinese University of Hong Kong, Hong Kong, China'
+  education2: 'Visiting Research Fellow, School of Engineering and Applied Science, Harvard University'
+  education3: 'M.Ec., Renmin University of China, China'
+  office: AAB 1223
+  tel: (+852) 3411 6542
+
+- name: Lyu Xiaopu (呂效譜)
+  photo: c4.png
+  info: 'Associate Professor'
+  email: xiaopu_lyu@hkbu.edu.hk
+  number_educ: 3
+  education1: 'Ph.D., The Hong Kong Polytechnic University, Hong Kong'
+  education2: 'M.Sc., Wuhan University, China'
+  education3: 'B.Sc., Zhejiang University of Technology, China'
+  office: AAB 1233
+  tel: (+852) 3411 7208
+
