@@ -25,35 +25,35 @@ permalink: "/team/"
 	<div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/b1.png" alt="Slide 0" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group Photo</p>
+    		<p>Photo</p>
   	    </div>  
         </div> 
 
 	<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/b2.png" alt="Slide 1" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group Photo</p>
+    		<p>Photo</p>
   	    </div>  
         </div> 
 	
  	<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/b3.png" alt="Slide 2" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group Photo</p>
+    		<p>Photo</p>
   	    </div>  
         </div>   
 	  
 	<div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/b4.png" alt="Slide 3" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group Photo</p>
+    		<p>Photo</p>
   	    </div>  
         </div> 
 	    
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/b5.png" alt="Slide 4" />
 	    <div class="carousel-caption d-none d-md-block">
-    		<p>Group Photo</p>
+    		<p>Photo</p>
   	    </div>  
         </div>
 	
