@@ -28,7 +28,7 @@ permalink: "/openings"
 
 <br />
 
-#### Email: [mmgao2@hkbu.edu.hk](mmgao2@hkbu.edu.hk).
+#### Email: [mmgao2@hkbu.edu.hk](mmgao2@hkbu.edu.hk)
 
 <br />
 <br />
