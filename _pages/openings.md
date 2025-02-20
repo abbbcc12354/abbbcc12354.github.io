@@ -24,6 +24,10 @@ permalink: "/openings"
 
 <br />
 
+#### Fax:	(+852) 3411 5990
+
+<br />
+
 #### Email: [mmgao2@hkbu.edu.hk](mmgao2@hkbu.edu.hk).
 
 <br />
