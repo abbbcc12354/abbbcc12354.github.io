@@ -1,18 +1,18 @@
 ---
-title: Openings
+title: Contact
 layout: textlay
 excerpt: Openings
 sitemap: false
 permalink: "/openings"
 ---
 
-# We are always looking for self-motivated new group members with talent and passion!
+# Centre for Climate and Environmental Sustainability
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <br />
 
-## Opportunities for prospective PhD students
+Hong Kong Baptist University
 
 <br />
 
