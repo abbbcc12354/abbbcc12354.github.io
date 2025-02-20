@@ -75,7 +75,7 @@ We believe that creating climate-resilient and environmentally sustainable citie
 
 ---
 ### Activities
-The activities at CCES are organized around five core research areas:
+#### The activities at CCES are organized around five core research areas:
 
 1. Climate Change Adaptation, Mitigation and Resilience
 2. Extreme Weather and Climate Change
