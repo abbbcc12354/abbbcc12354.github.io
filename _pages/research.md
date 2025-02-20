@@ -14,8 +14,6 @@ permalink: "/research/"
 
 Project status:  Ongoing
 
-<br />
-
 Duration:  2023 - 
 
 <br />
@@ -34,8 +32,6 @@ Aerosol pollution significantly impacts atmospheric visibility and poses substan
 <br />
 
 Project status:  Ongoing
-
-<br />
 
 Duration:  2022 - 
 
