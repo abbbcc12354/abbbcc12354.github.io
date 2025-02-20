@@ -6,14 +6,6 @@ sitemap: false
 permalink: "/"
 ---
 
-We are the Centre for Climate and Environmental Sustainability at Hong Kong Baptist University. Our research focuses on:
-
-- Climate change adaptation, mitigation and resilience
-- Extreme weather and climate change  
-- Atmospheric chemistry and air quality
-- Environment and health
-- Sustainable urban development
-
 <div style="display: flex; gap: 2em; margin-top: 2em;">
 <div style="flex: 3;">
 
@@ -73,3 +65,27 @@ We are the Centre for Climate and Environmental Sustainability at Hong Kong Bapt
 {% comment %}
 **We usually have openings for new PhD students, Postdocs, Master students, and undergradate students to join the team** [(check here)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 {% endcomment %}
+
+---
+### Mission
+CCES is an interdisciplinary research and educational center at Hong Kong Baptist University dedicated to advancing solutions for climate change, environmental challenges, and sustainable urban development. The center conducts cutting-edge research combining atmospheric science, environmental health, and urban sustainability, with particular focus on the unique challenges facing Asian metropolitan regions. CCES serves as a hub for academic research, policy advisory, and educational initiatives in environmental and climate sciences.
+
+We believe that creating climate-resilient and environmentally sustainable cities requires an integrated approach that combines scientific understanding with practical solutions. Our work aims to bridge the gap between atmospheric science, public health, and urban planning to develop comprehensive strategies for addressing environmental challenges in rapidly developing urban areas.
+---
+### Activities
+The activities at CCES are organized around five core research areas:
+
+1. Climate Change Adaptation, Mitigation and Resilience
+2. Extreme Weather and Climate Change
+3. Atmospheric Chemistry and Air Quality
+4. Environment and Health
+5. Sustainable Urban Development
+
+#### Research at CCES addresses fundamental questions including:
+
+How can Asian cities effectively adapt to climate change while maintaining economic growth?
+What are the key factors affecting urban air quality and how can they be managed?
+How do environmental changes impact public health in dense urban environments?
+What strategies can maximize urban resilience to extreme weather events?
+How can we design cities that are both environmentally sustainable and livable?
+What role can technology play in creating smart, sustainable urban environments?
