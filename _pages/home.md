@@ -85,9 +85,9 @@ The activities at CCES are organized around five core research areas:
 
 #### Research at CCES addresses fundamental questions including:
 
-How can Asian cities effectively adapt to climate change while maintaining economic growth?
-What are the key factors affecting urban air quality and how can they be managed?
-How do environmental changes impact public health in dense urban environments?
-What strategies can maximize urban resilience to extreme weather events?
-How can we design cities that are both environmentally sustainable and livable?
-What role can technology play in creating smart, sustainable urban environments?
+1. How can Asian cities effectively adapt to climate change while maintaining economic growth?
+2. What are the key factors affecting urban air quality and how can they be managed?
+3. How do environmental changes impact public health in dense urban environments?
+4. What strategies can maximize urban resilience to extreme weather events?
+5. How can we design cities that are both environmentally sustainable and livable?
+6. What role can technology play in creating smart, sustainable urban environments?
