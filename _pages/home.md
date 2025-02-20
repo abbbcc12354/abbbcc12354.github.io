@@ -68,8 +68,8 @@ permalink: "/"
 
 ---
 ### Mission
+-
 CCES is an interdisciplinary research and educational center at Hong Kong Baptist University dedicated to advancing solutions for climate change, environmental challenges, and sustainable urban development. The center conducts cutting-edge research combining atmospheric science, environmental health, and urban sustainability, with particular focus on the unique challenges facing Asian metropolitan regions. CCES serves as a hub for academic research, policy advisory, and educational initiatives in environmental and climate sciences.
-
 We believe that creating climate-resilient and environmentally sustainable cities requires an integrated approach that combines scientific understanding with practical solutions. Our work aims to bridge the gap between atmospheric science, public health, and urban planning to develop comprehensive strategies for addressing environmental challenges in rapidly developing urban areas.
 ---
 ### Activities
