@@ -53,7 +53,7 @@ permalink: "/"
 
 <h3 style="text-align: center; margin-top: 0; padding-bottom: 0.5em; border-bottom: 1px solid #ddd;">News & Achievements</h3>
 
-* [Prof. Gao receives 2024 Rising Stars in Environmental Research](https://pubs.acs.org/journal/aeacc4)
+* [Prof. Gao receives 2024 Rising Stars in Environmental Research](https://pubs.acs.org/doi/10.1021/acsenvironau.5c00004)
 
 * [Dr Gao Meng wins Xie Yibing Youth Meteorological Science and Technology Award](https://www.hkbu.edu.hk/en/whats-new/discover-hkbu/2022/nov-2022/hkbu-researcher-wins-xie-yibing-youth-meteorological-science-and-technology-award.html)
 
